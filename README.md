@@ -1,2 +1,3 @@
-# Codepath week 3
+# Codepath Lab 3
 
+Tech fellow Kevin Parra
